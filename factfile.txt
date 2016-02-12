@@ -1,0 +1,78 @@
+<p>
+<h1> Contents </h1>
+<a href="#L1" class="nav">How are Smoking & Carbon Monoxide Related?</a><br>
+<a href="#L2" class="nav">How Much Carbon Monoxide Enters the Body Through Smoking?</a><br>
+<a href="#L3" class="nav">What is Carbon Monoxide?</a><br>
+<a href="#L4" class="nav">What are the Health Effects of Carbon Monoxide?</a><br>
+<a href="#L5" class="nav">What Symptoms Should I Look for if I Think I Have Been Exposed to Carbon Monoxide?</a><br>
+</p>
+
+
+<br>
+<br>
+<h2><a id="L1">How are Smoking and Carbon Monoxide Related?</a></h2>
+
+<p>
+Smoking tobacco increases the CO content of your blood. The normal level of CO for a non-smoker depends on background levels in the air
+but it's usually between 0 and 8 parts per million. The level of CO for a smoker is usually much higher and varies according to the time 
+of day, the number of tobacco products smoked and how the smoke is inhaled.
+</p>
+
+
+<br>
+<h2><a id="L2">How Much Carbon Monoxide Enters the Body Through Smoking?</a></h2>
+
+<p>
+A person who smokes a pack of cigarettes per day will commonly have a CO level of about 20 parts per million. A two-pack-a-day smoker may have 
+a level of about 40 parts per million.
+</p>
+
+<p>
+The good news is that after stopping smoking, the CO level will return to normal within one or two days. Health effects related to CO may vary 
+from person to person.</p>
+ 
+<p>
+CO enters the blood from the lungs and combines with hemoglobin, blocking the blood's ability to carry oxygen to body cells. Symptoms of CO exposure 
+may mimic influenza and include fatigue, headache, dizziness, nausea, vomiting, mental confusion, and rapid heart rate. Depending on the level of 
+exposure, Carbon Monoxide can be immediately fatal. Long-term, low-level exposure to Carbon Monoxide by pregnant women will injure the developing fetus.
+</p>
+
+
+<br>
+<h2><a id="L3">What is Carbon Monoxide?</a></h2>
+
+<p>
+CO is a colorless, odorless, tasteless gas that is a small part of the air we breathe. There are many sources of CO such as incinerators, car exhaust 
+and gas furnaces.
+</p>
+
+
+<br>
+<h2><a id="L4">What are the Health Effects of Carbon Monoxide?</a></h2>
+
+<p>
+At high concentrations, CO can kill. People who are exposed to CO may experience headaches, dizziness, nausea (feeling sick) and tiredness. 
+High concentrations can cause people to become confused. Continued exposure to a high concentration of CO can led to unconsciousness. When individuals 
+are removed from the source of CO these symptoms usually improve. Exposure to lower concentrations of CO for a longer period may affect young people’s 
+school work and an adult’s ability to concentrate and think clearly.
+</p>
+
+<p>
+When the level of CO in your blood increases, the ability of your blood to carry oxygen is decreased. It is harmful to your body at any level and long-term 
+exposure at lower levels can lead to heart disease.
+</p>
+
+
+<br>
+<h2><a id="L5">What Symptoms Should I Look for if I Think I Have Been Exposed to Carbon Monoxide?</a></h2>
+
+<p>
+Headaches, tiredness, difficulty in thinking clearly and feeling sick are common symptoms of CO poisoning. Symptoms of CO poisoning 
+can also be similar to those for food poisoning and the common cold.
+</p>
+
+
+
+
+
+

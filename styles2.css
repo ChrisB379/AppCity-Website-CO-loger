@@ -1,0 +1,264 @@
+/*
+ * Setting the background image
+ */
+body {
+      background-image:url("http://i57.tinypic.com/15x5uvo.jpg");
+      /*Blue background image back up
+       http://www.hdbackgroundspoint.com/wp-content/uploads/2013/12/15/546.jpeg
+       Black image back up
+       http://geewall.com/mmc_uploads/5155-gray-gradient-background-wallpaper.jpg
+       */
+      overflow:auto;
+      color:black;
+     }
+
+/*
+ * Setting a width for input text fields so they appear the same on firefox,chrome etc due to
+ * different conventions being used
+*/
+input.fields{
+width: 200;
+}
+
+/*
+ * Setting the length of buttons in the style section
+ */
+input.buttons{
+width:70;
+}
+
+#wrap 
+{ 
+	width: 1500; 
+	margin: 0 auto; 
+}
+     
+/*
+ * Headers
+ */
+h1, h2, h3, h4, h5, h6, h7, h8
+{font-family: arial, verdana, 'sans serif';
+color: black;
+font-size:20;
+}
+
+h9, h10, h11, h12, h13
+{font-family: arial, verdana, 'sans serif';
+color: white;
+font-size:20;
+}
+
+/*
+ * Each list item li
+ */
+li.default
+{font-family: verdana, helvetica, 'sans serif';
+list-style-type:none;
+color:white;
+word-spacing: 5;
+}
+
+/*
+ * Unordered list
+ */
+ul.g
+{ 
+list-style: disc;
+Font-size: 20;
+text-align:left;
+word-spacing: 30;
+}
+
+/*
+ * Unordered list of styles
+ */
+ul.style
+{
+color:white;  
+word-spacing:0;
+margin-left:2;
+}
+
+/*
+ * Unordered list with bullet points for index.php smoking info
+ */
+ul.list
+{
+list-style-type:disc
+color:black;
+}
+
+/*
+ * Each list item li with bullet points  for index.php smoking info
+ */
+li.lists
+{font-family: verdana, helvetica, 'sans serif';
+list-style-type:disc;
+color: black;
+
+}
+
+/*
+ * Actions for hyperlinks
+ * Includes changing colour/underlining depending on if clicked
+ * hovered over, etc
+ */
+A.nav:link {color:black; text-decoration: none;}
+A.nav:visited {color:black; text-decoration: none;}
+A.nav:active {color:black;}
+A.nav:hover {color:mediumblue; cursor: pointer;}
+
+/*
+ * The Header
+ */
+div.h{
+border:2px solid #DCDCDC;
+background-color:#4F4F4F;
+position:absolute;
+float:left;
+margin-left:10;
+width:200;
+height:300;
+top:80;
+}
+
+/*
+ * Login link div
+ */
+div.loginlink{
+position:absolute;
+top:-25;
+margin-left:1132;
+width:40;
+height:40;
+} 
+
+
+/*
+ * The content pane
+ */
+div.c{
+color:black;  
+border:2px solid #DCDCDC;
+padding:10;
+background-color:#FFFFFF;
+float:left;
+position:absolute;
+margin-left:213;
+top:80;
+height:630;
+width:1010;
+overflow:auto;
+}
+
+
+/*
+ * Login div
+ */
+div.login{
+border:2px solid #DCDCDC;
+border-radius:15;
+padding:10;
+margin-left:150;
+width:240;
+height:240;
+} 
+
+/*
+ * The main register page
+ */
+div.registration{
+border:2px solid #DCDCDC;
+border-radius:15;
+padding:20;
+margin-top:100;
+margin-left:230;
+width:500;
+height:370;
+text-color:black;
+font-colour:black;
+}
+
+/*
+ * Register div
+ */
+div.register{
+border:2px solid #DCDCDC;
+border-radius:15;
+padding:10;
+margin-top:-265;
+margin-left:550;
+width:240;
+height:240;
+}
+
+/*
+ * Style div
+ */
+div.styles{
+position:absolute;
+border:2px solid #DCDCDC;
+border-radius:15;
+padding:10;
+margin-left:1250;
+width:150;
+height:140;
+top:80;
+}
+
+/*
+ * The bottom bar containing the copyright
+ */
+div.b{
+margin-left:210;
+text-align:center;
+position:absolute;
+top:750;
+width:1030;
+height:30;
+}
+
+/*
+ * Positioning the crave button
+ */
+div.but{
+margin-left:45; 
+position:absolute;
+top:250;
+}
+
+/*
+ * Custom button from http://css3button.net/
+ */
+button.but {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24;
+	color: #ffffff;
+	padding: 12 27;
+	background: -moz-linear-gradient(
+		top,
+		#fc0d0d 0%,
+		#ad1616);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#fc0d0d),
+		to(#ad1616));
+	-moz-border-radius: 10;
+	-webkit-border-radius: 10;
+	border-radius: 10;
+	border: 1px solid #000000;
+	-moz-box-shadow:
+		0 1 3 rgba(000,000,000,0.5),
+		inset 0 0 2 rgba(255,255,255,1);
+	-webkit-box-shadow:
+		0 1 3 rgba(000,000,000,0.5),
+		inset 0 0 2 rgba(255,255,255,1);
+	box-shadow:
+		0 1 3 rgba(000,000,000,0.5),
+		inset 0 0 2 rgba(255,255,255,1);
+	text-shadow:
+		0 -1 0 rgba(000,000,000,0.4),
+		0 1 0 rgba(255,255,255,0.3);
+}
+
+
